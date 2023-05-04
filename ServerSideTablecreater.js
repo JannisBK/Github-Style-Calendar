@@ -18,7 +18,7 @@ const server = http.createServer((req, res) => {
         var connection = mysql.createConnection({
             host: '127.0.0.1',
             user: 'root',
-            password: '12qwasyx+',
+            password: ' ',
             database: `github-style calendar`
         });
 
@@ -42,7 +42,7 @@ const server = http.createServer((req, res) => {
         var connection = mysql.createConnection({
             host: '127.0.0.1',
             user: 'root',
-            password: '12qwasyx+',
+            password: ' ',
             database: `github-style calendar`
         });
 
