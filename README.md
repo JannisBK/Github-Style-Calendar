@@ -1,8 +1,8 @@
 # Github-Style-Calendar
 
 ## Requirements
-1.Node.js 
-2.python module mysql
+1.Node.js  
+2.python module mysql  
 
 ## Step 1.) Creating a Table
 Use the Databasecreater.py file to create a table in a existing database
